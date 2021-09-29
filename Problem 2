@@ -1,0 +1,5 @@
+l= [[10,0],[7,5,1],9]
+l.reverse()
+l[1].reverse()
+l[2].reverse()
+print(l)
